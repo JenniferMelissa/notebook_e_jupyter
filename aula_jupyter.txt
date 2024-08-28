@@ -1,0 +1,13 @@
+#formado por 3 linguagens de programacao
+Ju = Julia 
+py = Python 
+r = R
+
+#jupyter é ide, ambiente virtual integrado, é um programa,é um outro programa utilizacdo para mineracao de dados
+
+#notebook é um caderno de anotacoes
+#notebook permite que aceite mais liguagens
+
+tipo de arquivo para do tipo jypyter para trabalhar com notebook (.ipynb)
+Precisa da extesão Jupyter no vscode para usar o notebook
+
